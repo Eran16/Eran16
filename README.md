@@ -1,7 +1,6 @@
-<h1 align='center'>Hi,I'm Ekele Okeadu</h1>
-<p align='center'>
-  "Programming is the art that makes dreams come true."
-</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Eran16</p>
+
+☞ 〔 🐼 〕Software Engineer
 
 <br />
 
