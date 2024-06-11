@@ -1,6 +1,7 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Eran16</p>
 
-☞ 〔 🐼 〕Software Engineer
+☞ 〔 🐼 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.sc.com/en/">![Standard Charted](https://img.shields.io/badge/Software%20Engineer-%40Standard%20Charted-brightgreen)</a>
+
 
 <br />
 
